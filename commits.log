@@ -1,0 +1,104 @@
+commit 33e22e4e225c3830d480764119b2cc99681e973c
+Author: Martin Bergesio Trabajo <bergesio90@gmail.com>
+Date:   Mon Sep 12 10:31:16 2022 +0200
+
+    Agregando 2 párrafos
+
+commit 19a46746e0ea3bb64852442aecba72f005eda59b
+Merge: 1880c76 6b37827
+Author: Martin Bergesio Trabajo <bergesio90@gmail.com>
+Date:   Mon Sep 12 10:28:48 2022 +0200
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit 1880c769f8874d762c4376b6592def42389c69d2
+Author: Martin Bergesio Trabajo <bergesio90@gmail.com>
+Date:   Mon Sep 12 10:14:08 2022 +0200
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 6b378274cc74a505ca228b4f9f68e927b429cd75
+Author: Martin Bergesio Trabajo <bergesio90@gmail.com>
+Date:   Mon Sep 12 10:14:08 2022 +0200
+
+    Agregando estaciones del año
+
+commit 7c3c5cfdfca4bf5b3c091543f01419de59744d99
+Merge: 82489f3 231ab3b
+Author: Martin Bergesio Trabajo <bergesio90@gmail.com>
+Date:   Mon Sep 12 10:04:33 2022 +0200
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 231ab3bb41f9316e723b61c541e344da3d9f5997
+Author: Martin Bergesio Trabajo <bergesio90@gmail.com>
+Date:   Mon Sep 12 09:58:48 2022 +0200
+
+    Agregando index.js al index.html
+
+commit 82489f3a7a9aeb1078de3f40412dbdaa242f38c5
+Author: Martin Bergesio Trabajo <bergesio90@gmail.com>
+Date:   Mon Sep 12 09:56:56 2022 +0200
+
+    Agregando style.css al index.html
+
+commit ef725ea5f7f71efde3e3509f6d8bf71e6d7438ab
+Merge: 7fee70a c525202
+Author: Martin PCescritorio <bergesio90@gmail.com>
+Date:   Sun Sep 11 16:08:29 2022 +0200
+
+    Merge branch 'js'
+
+commit 7fee70a36b6a7093f8ca07e9de0681837ea76a07
+Author: Martin PCescritorio <bergesio90@gmail.com>
+Date:   Sun Sep 11 16:04:07 2022 +0200
+
+    Creando style.css 2
+
+commit c525202379130c35ab096b01e1e7bb550adf4ead
+Author: Martin PCescritorio <bergesio90@gmail.com>
+Date:   Sun Sep 11 16:02:05 2022 +0200
+
+    Creando index.js
+
+commit 69b8f38b98c8ef902e8ec6f6488e95fc81259de5
+Author: Martin PCescritorio <bergesio90@gmail.com>
+Date:   Sun Sep 11 15:58:04 2022 +0200
+
+    Creando style.css
+
+commit 145ba256d05cbfa65cda94bf96782ea009d12a98
+Author: Martin PCescritorio <bergesio90@gmail.com>
+Date:   Sun Sep 11 15:54:05 2022 +0200
+
+    Creando index.html
+
+commit 2f4b85f094d8c7e4335afc62d3b6ca70fb14ffb4
+Author: Martin PCescritorio <bergesio90@gmail.com>
+Date:   Sun Sep 11 13:29:55 2022 +0200
+
+    ignorando archivos .exe
+
+commit c181bdb5dd01442f2fc78b4f30143faf3ad08871
+Author: Martin Bergesio <bergesio90@gmail.com>
+Date:   Sun Sep 11 13:07:09 2022 +0200
+
+    Creando licencia del repositorio
+
+commit 20bad845b90450a85be85c6b5565fcf37211c34b
+Author: Martin PCescritorio <bergesio90@gmail.com>
+Date:   Sat Sep 10 17:36:49 2022 +0200
+
+    Agregando máscontenido al README
+
+commit 6e270b589078aadea5ff5f40eebac039253eca08
+Author: Martin PCescritorio <bergesio90@gmail.com>
+Date:   Sat Sep 10 17:25:03 2022 +0200
+
+    Agregando contenido inicial al README
+
+commit 58c8164648fd4b6423617dee585074a55571b779
+Author: Martin PCescritorio <bergesio90@gmail.com>
+Date:   Sat Sep 10 17:22:18 2022 +0200
+
+    First commit
